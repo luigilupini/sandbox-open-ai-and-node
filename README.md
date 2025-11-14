@@ -1,15 +1,5 @@
 # Build AI-Powered Apps with OpenAI and Node.js
 
-This repo is a companion to the [Build AI-Powered Apps with OpenAI and Node.js][course] course on Frontend Masters.
-
-[![Frontend Masters](https://static.frontendmasters.com/assets/brand/logos/full.png)][course]
-
-[fem]: https://www.frontendmasters.com
-[course]: https://frontendmasters.com/courses/openai-node/
-
-
-## Errata
-
 **Document QA Query Function Lesson**
 
 A few of the Langchain methods used in this course have been deprecated. Here's an alternative approach:
